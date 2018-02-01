@@ -1,3 +1,0 @@
-[console_scripts]
-comp30670_systeminfo = systeminfo.main:main
-
